@@ -75,8 +75,6 @@ Getting started with Potassium Executor is quick and simple. Follow these instru
 3. Install the `.apk` file.
 4. Launch Potassium, open Roblox, and execute your script!
 
-[![Download for PC](https://img.shields.io/badge/Download%20for%20PC-Windows-blue?style=for-the-badge)](#)
-[![Download for Android](https://img.shields.io/badge/Download%20for%20Android-APK-green?style=for-the-badge)](#)
 
 ---
 
